@@ -1,0 +1,8 @@
+<!ELEMENT library(Issued)*>
+<!ATTLIST Issued to CDATA "Student">
+<!ELEMENT Issued(Bkid,Date,Details)>
+<!ELEMENT Bkid(#PCDATA)*)>
+<!ELEMENT Date(#PCDATA)*)>
+<!ELEMENT Details(name,id)*)>
+<!ELEMENT name(#PCDATA)*>
+<!ELEMENT id(#PCDATA)*>

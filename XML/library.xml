@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+<Issued to="Faculty">
+<Bkid>C111</Bkid>
+<Date>09/09/2021</Date>
+<Details>
+<name>Charlie</name>
+<id>D001</id>
+</Details>
+</Issued>
+<Issued to="Student">
+<Bkid>C121</Bkid>
+<Date>05/09/2021</Date>
+<Details>
+<name>Peter</name>
+<id>D005</id>
+</Details>
+</Issued>
+</library>
